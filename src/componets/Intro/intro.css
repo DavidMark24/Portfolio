@@ -1,0 +1,30 @@
+.container-fluid-1 {
+
+    background: linear-gradient(241deg, #d51111, #ed4242, #e48951, #dc661e);
+    background-size: 800% 800%;
+
+    -webkit-animation: AnimationName 9s ease infinite;
+    -moz-animation: AnimationName 9s ease infinite;
+    animation: AnimationName 9s ease infinite;
+    color: white;
+    text-align: center;
+    padding: 20%;
+    font-size: 5vw;
+    font-family: 'Permanent Marker', cursive;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:56% 0%}
+    50%{background-position:45% 100%}
+    100%{background-position:56% 0%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:56% 0%}
+    50%{background-position:45% 100%}
+    100%{background-position:56% 0%}
+}
+@keyframes AnimationName {
+    0%{background-position:56% 0%}
+    50%{background-position:45% 100%}
+    100%{background-position:56% 0%}
+}

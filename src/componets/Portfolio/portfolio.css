@@ -1,0 +1,28 @@
+#work {
+    text-align: center;
+    margin-top: 5%;
+    background-color: #E3E4E7;
+}
+
+.projects {
+    font-family: 'Montserrat', sans-serif;
+    border-bottom: 1px solid #000;
+}
+
+.pro {
+
+    margin-top: 15%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+    border-radius: 15%;
+ }
+
+ .city {
+    margin-top: 15%;
+    margin-left: 5%;
+    border-radius: 15%;
+    height: 150px;
+    -webkit-box-shadow: 6px 5px 7px -4px rgba(0, 0, 0, 0.7);
+    box-shadow: 6px 5px 7px -4px rgba(0, 0, 0, 0.7);
+    
+ }

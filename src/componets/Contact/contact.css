@@ -1,0 +1,19 @@
+#contacts {
+    margin-top: 5%;
+}
+
+.contact {
+   font-family: 'Montserrat', sans-serif;
+   border-bottom: 1px solid #000;
+}
+
+.form {
+    margin: 5%;
+}
+.icon {
+    background-color:  #d51111;
+    padding: 5%;
+}
+ i {
+     color: white;
+ }
