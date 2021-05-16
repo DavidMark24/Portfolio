@@ -28,7 +28,7 @@ const Contact = () => {
       <div class="icon">
         <a href="https://www.linkedin.com/in/davidjohnson24/"> <i class="fab fa-linkedin fa-3x"> </i> </a>
         <a href="https://github.com/DavidMark24"> <i class="fab fa-github-square fa-3x"> </i> </a>
-        <a href="https://twitter.com/jaayrza"> <i class="fab fa-twitter-square fa-3x"> </i> </a>
+        <a href="#"> <i class="fab fa-twitter-square fa-3x"> </i> </a>
       </div>
       </section>
         </div>
