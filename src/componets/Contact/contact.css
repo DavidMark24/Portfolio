@@ -10,8 +10,11 @@
 .form {
     margin: 5%;
 }
+.email {
+    color: white;
+}
 .icon {
-    background-color:  #d51111;
+    background-color:  #e48951;
     padding: 5%;
 }
  i {

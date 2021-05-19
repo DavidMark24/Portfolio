@@ -8,18 +8,20 @@ const Portfolio = () => {
           <h1 class="projects">Projects</h1>
           <div class="row">
             <div class="col col-12 col-lg-3 col-xl-3 col-xxl-3">
-              <a href="https://charlestbell.github.io/ctyFaktz/"> <img class="city" src="pictures/cityfaktz.png"
+              <a href="https://only-foods.herokuapp.com/"> <img class="city" src="pictures/onlyfoods.png"
                   alt="city website" srcset=""/> </a>
+                   <a href="https://github.com/DavidMark24/OnlyFoods"> <i id="git" class="fab fa-github-square fa-2x"> </i> </a>
                </div>
                <div class="col col-12 col-lg-9 col-xl-9 col-xxl-9">
-                <p class="pro">CtyFaktz! City search made fun. <br/>
-                  A website that has useful and fun facts about your favorite cities. <br/>
-                  It's a new way of looking at your favorite towns!</p>
+                <p class="pro">Only Foods! Tinder for FOOD!!. <br/>
+                  An application that solves the world's hardest question,"What do you want to eat?!"<br/>
+                  It's a new way of finding delicious food!</p>
                </div>
           </div>
           <div class="row">
             <div class="col col-12 col-lg-3 col-xl-3 col-xxl-3">
               <a href="https://chefs-kiss.herokuapp.com/"> <img class= "city" src="pictures/Screenshot (52).png" alt="chef website"/> </a>
+              <a href="https://github.com/DavidMark24/Chefs-Kiss"> <i id="git" class="fab fa-github-square fa-2x"> </i> </a>
             </div>
             <div class="col col-12 col-lg-9 col-xl-9 col-xxl-9">
               <p class="pro">
@@ -34,6 +36,7 @@ const Portfolio = () => {
             <div class="col col-12 col-lg-3 col-xl-3 col-xxl-3">
               <a href="https://pacific-lowlands-24304.herokuapp.com/index"> <img class="city" src="pictures/burger.png"
                   alt="burger"/> </a>
+                     <a href="https://github.com/DavidMark24/burger"> <i id="git" class="fab fa-github-square fa-2x"> </i> </a>
                </div>  
                <div class="col col-12 col-lg-9 col-xl-9 col-xxl-9">
                 <p class="pro"> Eat Da Burger <br/>
@@ -47,6 +50,7 @@ const Portfolio = () => {
             <div class="col col-12 col-lg-3 col-xl-3 col-xxl-3">
               <a href="https://intense-castle-01702.herokuapp.com/stats"> <img class="city" src="pictures/fitness.png"
                   alt="burger"/> </a>
+                     <a href="https://github.com/DavidMark24/FitnessTracker"> <i id="git" class="fab fa-github-square fa-2x"> </i> </a>
                </div>  
                <div class="col col-12 col-lg-9 col-xl-9 col-xxl-9">
                 <p class="pro"> Fitness Tracker <br/>
@@ -59,6 +63,7 @@ const Portfolio = () => {
             <div class="col col-12 col-lg-3 col-xl-3 col-xxl-3">
               <a href="https://radiant-chamber-40061.herokuapp.com/"> <img class="city" src="pictures/employeeD.png"
                   alt="burger"/> </a>
+                     <a href="https://github.com/DavidMark24/EmployeeDirectory"> <i id="git" class="fab fa-github-square fa-2x"> </i> </a>
                </div>  
                <div class="col col-12 col-lg-9 col-xl-9 col-xxl-9">
                 <p class="pro"> Employee Directory <br/>

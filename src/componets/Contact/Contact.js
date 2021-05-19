@@ -26,9 +26,10 @@ const Contact = () => {
         </div>
       </form>
       <div class="icon">
+        <p class="email">david.m.johnson32@gmail.com</p>
         <a href="https://www.linkedin.com/in/davidjohnson24/"> <i class="fab fa-linkedin fa-3x"> </i> </a>
         <a href="https://github.com/DavidMark24"> <i class="fab fa-github-square fa-3x"> </i> </a>
-        <a href="#"> <i class="fab fa-twitter-square fa-3x"> </i> </a>
+         <i class="fab fa-twitter-square fa-3x"> </i>
       </div>
       </section>
         </div>
